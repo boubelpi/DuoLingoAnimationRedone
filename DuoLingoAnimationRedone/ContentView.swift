@@ -10,12 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            
             Text("LOADING...")
                 .font(.title2)
                 .fontWeight(.regular)
                 .foregroundColor(.gray)
-            
+            Text(txt.find_text_under_animation())
+                .font(.body)
+                .padding(2)
         }
         .padding()
     }

@@ -11,6 +11,8 @@
 		E9C53D52292BAD85009455D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C53D51292BAD85009455D3 /* ContentView.swift */; };
 		E9C53D54292BAD87009455D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9C53D53292BAD87009455D3 /* Assets.xcassets */; };
 		E9C53D57292BAD87009455D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9C53D56292BAD87009455D3 /* Preview Assets.xcassets */; };
+		E9C53D62292D058F009455D3 /* struct_of_text_under_animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C53D61292D058F009455D3 /* struct_of_text_under_animation.swift */; };
+		E9C53D64292D06F9009455D3 /* make_text_under_animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C53D63292D06F9009455D3 /* make_text_under_animation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E9C53D51292BAD85009455D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E9C53D53292BAD87009455D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9C53D56292BAD87009455D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E9C53D61292D058F009455D3 /* struct_of_text_under_animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct_of_text_under_animation.swift; sourceTree = "<group>"; };
+		E9C53D63292D06F9009455D3 /* make_text_under_animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = make_text_under_animation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				E9C53D51292BAD85009455D3 /* ContentView.swift */,
 				E9C53D53292BAD87009455D3 /* Assets.xcassets */,
 				E9C53D55292BAD87009455D3 /* Preview Content */,
+				E9C53D61292D058F009455D3 /* struct_of_text_under_animation.swift */,
+				E9C53D63292D06F9009455D3 /* make_text_under_animation.swift */,
 			);
 			path = DuoLingoAnimationRedone;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9C53D64292D06F9009455D3 /* make_text_under_animation.swift in Sources */,
 				E9C53D52292BAD85009455D3 /* ContentView.swift in Sources */,
+				E9C53D62292D058F009455D3 /* struct_of_text_under_animation.swift in Sources */,
 				E9C53D50292BAD85009455D3 /* DuoLingoAnimationRedoneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
