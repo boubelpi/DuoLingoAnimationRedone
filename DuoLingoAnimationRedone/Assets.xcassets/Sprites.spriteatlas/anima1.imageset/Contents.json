@@ -9,9 +9,117 @@
       "scale" : "2x"
     },
     {
-      "filename" : "anima1.jpeg",
+      "filename" : "removal.ai_tmp-637f716a0d5ce_3_198x197.png",
       "idiom" : "universal",
       "scale" : "3x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "regular"
     }
   ],
   "info" : {

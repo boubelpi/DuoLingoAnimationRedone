@@ -17,20 +17,20 @@ class GameScene : SKScene {
         return playerAtlas.textureNamed("ani5")
     }
     private func setupPlayer() {
-        player = SKSpriteNode(texture : playerTexture, size : CGSize(width : 70, height : 70))
+        player = SKSpriteNode(texture : playerTexture, size : CGSize(width : 200, height : 200))
         player.position = CGPoint(x : frame.width / 2, y : frame.height / 2)
         addChild(player)
     }
     private var playerTextures : [SKTexture] {
         return [
             playerAtlas.textureNamed("ani5"),
-            playerAtlas.textureNamed("ani6"),
+            playerAtlas.textureNamed("anima1"),
             playerAtlas.textureNamed("animaz3"),
-            playerAtlas.textureNamed("anima1")
+            playerAtlas.textureNamed("ani6")
         ]
     }
     func startAnimations() {
-        let anim = SKAction.animate(with : playerTextures, timePerFrame : 0.2)
+        let anim = SKAction.animate(with : playerTextures, timePerFrame : 0.3)
         player.run(SKAction.repeatForever(anim), withKey : "playerIdleAnimations")
     }
     override func didMove(to view: SKView) {
@@ -41,6 +41,7 @@ class GameScene : SKScene {
 }
 
 struct ContentView: View {
+    
     var scene : SKScene {
         let scene = GameScene()
         scene.size = CGSize(width : 216, height : 216)
